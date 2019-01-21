@@ -32,7 +32,7 @@ public class Java_Ex7_UnsignedIntegers {
         int diff = int1 - int2; // Substraction of two unsigned integers
         System.out.print("Difference: ");
         System.out.println(Integer.toUnsignedString(diff));
-        int product = int1 * int2;
+        int product = int1 * int2; // Product of unsigned integers
         System.out.print("Product: ");
         System.out.println(Integer.toUnsignedString(product));
         System.out.print("Quotient: ");
